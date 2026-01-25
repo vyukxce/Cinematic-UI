@@ -38,9 +38,9 @@ Cinematic-UI/
 │   │   ├── MovieCard.jsx
 │   │   ├── Navbar.jsx
 │   │   └── Footer.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   └── Details.jsx
+│   ├── ui/
+│   │   ├── Button.jsx
+│   │   └── Card.jsx
 │   ├── App.jsx
 │   ├── index.css
 │   └── main.jsx
