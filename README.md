@@ -34,10 +34,10 @@ Cinematic-UI/
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   ├── Hero.jsx
-│   │   ├── MovieCard.jsx
-│   │   ├── Navbar.jsx
-│   │   └── Footer.jsx
+│   │   ├── Herosection.jsx
+│   │   ├── Storytimeline.jsx
+│   │   ├── ParallexScene.jsx
+│   │   └── Endingsection.jsx
 │   ├── ui/
 │   │   ├── Button.jsx
 │   │   └── Card.jsx
